@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: basic-image-processing
+Version: 0.0.1
+Summary: This is an Basic Image Processing Package
+Home-page: https://github.com/Josevpc/basic-image-processing-package
+Author: Josevpc
+Author-email: josevictorpiccin@gmail.com
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib==3.9.2
+Requires-Dist: numpy==2.1.2
+Requires-Dist: setuptools==75.1.0
+Requires-Dist: skimage==0.0
+
+# basic-image-processing
+
+Description. 
+The package basic-image-processing is used to:
+	Processing:
+		- Histogram Matching
+		- Structural Similarity
+		- Resize Imagem
+	Utils:
+		- Read Image
+		- Save Image
+		- Plot Image
+		- Plot Result
+		- Plot Histogram
+	
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install basic-image-processing
+
+```bash
+pip install basic-image-processing
+```
+
+## Author
+Josevpc
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

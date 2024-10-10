@@ -1,27 +1,29 @@
-# package_name
+# basic-image-processing
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package basic-image-processing is used to:
+	Processing:
+		- Histogram Matching
+		- Structural Similarity
+		- Resize Imagem
+	Utils:
+		- Read Image
+		- Save Image
+		- Plot Image
+		- Plot Result
+		- Plot Histogram
+	
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install basic-image-processing
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+pip install basic-image-processing
 ```
 
 ## Author
-My_name
+Josevpc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
